@@ -1,4 +1,3 @@
-yaml
 services:
   - type: web
     name: number-search-bot
@@ -13,4 +12,6 @@ services:
       - key: WEBHOOK_SECRET
         sync: false
       - key: HF_DATASET_URL
+        sync: false
+      - key: RANGES_URL
         sync: false
