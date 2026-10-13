@@ -4,7 +4,7 @@ import httpx
 
 from app import config
 from app.bot import process_update
-from app.search import find_record, get_candidates
+from app.search import find_record, get_candidates, debug_file
 from app.ranges import total_files, reload_ranges
 
 app = FastAPI(title="Number Search Bot")
@@ -16,10 +16,8 @@ async def _startup():
 
     print(f"[startup] Loaded {total_files()} file ranges.")
 
-    # Only set webhook if WEBHOOK_URL is provided
     if not config.WEBHOOK_URL:
         print("[startup] WEBHOOK_URL not set — skipping setWebhook.")
-        print("[startup] Add WEBHOOK_URL env var after deploy to enable bot.")
         return
 
     webhook_full = f"{config.WEBHOOK_URL}/webhook/{config.WEBHOOK_SECRET}"
@@ -70,6 +68,11 @@ async def search(number: str):
         "candidates": candidates,
         "result": result,
     }
+
+
+@app.get("/debug-file")
+async def debug_file_endpoint(file: str, number: str = None):
+    return debug_file(file, number)
 
 
 @app.post("/reload-ranges")
