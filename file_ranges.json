@@ -1,0 +1,5117 @@
+{
+  "files": [
+    {
+      "file": "data/Hi-Tek_Part_000.parquet",
+      "first": "9999999998",
+      "last": "9990862692",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_001.parquet",
+      "first": "9990862691",
+      "last": "9990013786",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_002.parquet",
+      "first": "9990013785",
+      "last": "9971024119",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_003.parquet",
+      "first": "9971024119",
+      "last": "9958135985",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_004.parquet",
+      "first": "9958135984",
+      "last": "9953098801",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_005.parquet",
+      "first": "9953098799",
+      "last": "9911305054",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_006.parquet",
+      "first": "9911305053",
+      "last": "9910268548",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_007.parquet",
+      "first": "9910268547",
+      "last": "9899218454",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_008.parquet",
+      "first": "9899218453",
+      "last": "9891282987",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_009.parquet",
+      "first": "9891282987",
+      "last": "9873307256",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_010.parquet",
+      "first": "9873307255",
+      "last": "9871316167",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_011.parquet",
+      "first": "9871316166",
+      "last": "9821751680",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_012.parquet",
+      "first": "9811363337",
+      "last": "9810302305",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_013.parquet",
+      "first": "9810302303",
+      "last": "9718824788",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_014.parquet",
+      "first": "9718824787",
+      "last": "9717844276",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_015.parquet",
+      "first": "9717844276",
+      "last": "9716101187",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_016.parquet",
+      "first": "9716101185",
+      "last": "9711031549",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_017.parquet",
+      "first": "9711031548",
+      "last": "9654925381",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_018.parquet",
+      "first": "9654925380",
+      "last": "9650897422",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_019.parquet",
+      "first": "9650897421",
+      "last": "9643841716",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_020.parquet",
+      "first": "9643841715",
+      "last": "9625871070",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_021.parquet",
+      "first": "9625871069",
+      "last": "9599750030",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_022.parquet",
+      "first": "9599750029",
+      "last": "9582698403",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_023.parquet",
+      "first": "9582698401",
+      "last": "9560725381",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_024.parquet",
+      "first": "9560725380",
+      "last": "9540893616",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_025.parquet",
+      "first": "9540893615",
+      "last": "9518825153",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_026.parquet",
+      "first": "9518824904",
+      "last": "9355095005",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_027.parquet",
+      "first": "9355095004",
+      "last": "9354072006",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_028.parquet",
+      "first": "9354072005",
+      "last": "9319087526",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_029.parquet",
+      "first": "9319087525",
+      "last": "9315303246",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_030.parquet",
+      "first": "9315303245",
+      "last": "9311435234",
+      "rows": 999999
+    },
+      {
+      "file": "data/Hi-Tek_Part_031.parquet",
+      "first": "9311435233",
+      "last": "9310406744",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_032.parquet",
+      "first": "9310406743",
+      "last": "9289323513",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_033.parquet",
+      "first": "9289323512",
+      "last": "9211387299",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_034.parquet",
+      "first": "9211387297",
+      "last": "9205160464",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_035.parquet",
+      "first": "9205160463",
+      "last": "8929993469",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_036.parquet",
+      "first": "8929993468",
+      "last": "8920872572",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_037.parquet",
+      "first": "8920872572",
+      "last": "8882963057",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_038.parquet",
+      "first": "8882963057",
+      "last": "8882034591",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_039.parquet",
+      "first": "8882034590",
+      "last": "8860114592",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_040.parquet",
+      "first": "8860114591",
+      "last": "8851194602",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_041.parquet",
+      "first": "8851194601",
+      "last": "8826181145",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_042.parquet",
+      "first": "8826181145",
+      "last": "8800927473",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_043.parquet",
+      "first": "8800927472",
+      "last": "8766293050",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_044.parquet",
+      "first": "8766293049",
+      "last": "8750133850",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_045.parquet",
+      "first": "8750133850",
+      "last": "8742991963",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_046.parquet",
+      "first": "8742991962",
+      "last": "8700161764",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_047.parquet",
+      "first": "8700161763",
+      "last": "8595351827",
+      "rows": 999995
+    },
+    {
+      "file": "data/Hi-Tek_Part_048.parquet",
+      "first": "8595351827",
+      "last": "8586982847",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_049.parquet",
+      "first": "8586982846",
+      "last": "8527418630",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_050.parquet",
+      "first": "8527418629",
+      "last": "8506918459",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_051.parquet",
+      "first": "8506918458",
+      "last": "8448420971",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_052.parquet",
+      "first": "8448420971",
+      "last": "8447337773",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_053.parquet",
+      "first": "8447337772",
+      "last": "8377837926",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_054.parquet",
+      "first": "8377837926",
+      "last": "8368788020",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_055.parquet",
+      "first": "8368788019",
+      "last": "8287919456",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_056.parquet",
+      "first": "8287919456",
+      "last": "8285822663",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_057.parquet",
+      "first": "8285822663",
+      "last": "8178298201",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_058.parquet",
+      "first": "8178298200",
+      "last": "7982643523",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_059.parquet",
+      "first": "7982643523",
+      "last": "7840020711",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_060.parquet",
+      "first": "7840020710",
+      "last": "7836965213",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_061.parquet",
+      "first": "7836965213",
+      "last": "7827725835",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_062.parquet",
+      "first": "7827725833",
+      "last": "7703886115",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_063.parquet",
+      "first": "7703886114",
+      "last": "7678189226",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_064.parquet",
+      "first": "7678189224",
+      "last": "7428785246",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_065.parquet",
+      "first": "7428785245",
+      "last": "7303649091",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_066.parquet",
+      "first": "7303649087",
+      "last": "7290814936",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_067.parquet",
+      "first": "7290814935",
+      "last": "7068393926",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_068.parquet",
+      "first": "7068393914",
+      "last": "7065019718",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_069.parquet",
+      "first": "7065019718",
+      "last": "7042126285",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_070.parquet",
+      "first": "7042126284",
+      "last": "7011240862",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_071.parquet",
+      "first": "7011240861",
+      "last": "5754214675278",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_072.parquet",
+      "first": "5754214675277",
+      "last": "5754213392768",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_073.parquet",
+      "first": "5754213392765",
+      "last": "5754212229928",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_074.parquet",
+      "first": "5754212229927",
+      "last": "5754211094158",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_075.parquet",
+      "first": "5754211094157",
+      "last": "5754209917101",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_076.parquet",
+      "first": "5754209917101",
+      "last": "5754208735904",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_077.parquet",
+      "first": "5754208735902",
+      "last": "5754207673595",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_078.parquet",
+      "first": "5754207673595",
+      "last": "5754206755142",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_079.parquet",
+      "first": "5754206755141",
+      "last": "5754205857327",
+      "rows": 999999
+    },
+    {
+          "file": "data/Hi-Tek_Part_080.parquet",
+      "first": "5754205857327",
+      "last": "5754204984224",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_081.parquet",
+      "first": "5754204984223",
+      "last": "5754204260687",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_082.parquet",
+      "first": "5754204260686",
+      "last": "5754203503150",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_083.parquet",
+      "first": "5754203503149",
+      "last": "5754202714701",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_084.parquet",
+      "first": "5754202714700",
+      "last": "5754201877905",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_085.parquet",
+      "first": "5754201877904",
+      "last": "5754201096489",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_086.parquet",
+      "first": "5754201096488",
+      "last": "5754200363550",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_087.parquet",
+      "first": "5754200363549",
+      "last": "299952651885",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_088.parquet",
+      "first": "299952651832",
+      "last": "012447364660",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_089.parquet",
+      "first": "01244736466",
+      "last": "01143231204",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_090.parquet",
+      "first": "01143231203",
+      "last": "7982852435",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_091.parquet",
+      "first": "7982852434",
+      "last": "9818577601",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_092.parquet",
+      "first": "9818577598",
+      "last": "9811587694",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_093.parquet",
+      "first": "9811587693",
+      "last": "9810549525",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_094.parquet",
+      "first": "9810549524",
+      "last": "8076538055",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_095.parquet",
+      "first": "8076538054",
+      "last": "7982852435",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_096.parquet",
+      "first": "7982852434",
+      "last": "01145784845",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_097.parquet",
+      "first": "01145784844",
+      "last": "9973062258",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_098.parquet",
+      "first": "9973062257",
+      "last": "9939962699",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_099.parquet",
+      "first": "9939962698",
+      "last": "9934834925",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_100.parquet",
+      "first": "9934834924",
+      "last": "9931704743",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_101.parquet",
+      "first": "9931704742",
+      "last": "9905643878",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_102.parquet",
+      "first": "9905643877",
+      "last": "9835857282",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_103.parquet",
+      "first": "9835857281",
+      "last": "9801816817",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_104.parquet",
+      "first": "9801816816",
+      "last": "9798690916",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_105.parquet",
+      "first": "9798690915",
+      "last": "9771629146",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_106.parquet",
+      "first": "9771629145",
+      "last": "9709509399",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_107.parquet",
+      "first": "9709509398",
+      "last": "9708386014",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_108.parquet",
+      "first": "9708386013",
+      "last": "9693332942",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_109.parquet",
+      "first": "9693332941",
+      "last": "9661235484",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_110.parquet",
+      "first": "9661235483",
+      "last": "9631118462",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_111.parquet",
+      "first": "9631118461",
+      "last": "9608079586",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_112.parquet",
+      "first": "9608079585",
+      "last": "9576042510",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_113.parquet",
+      "first": "9576042509",
+      "last": "9570882629",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_114.parquet",
+      "first": "9570882628",
+      "last": "9546739518",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_115.parquet",
+      "first": "9546739516",
+      "last": "9546739518",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_116.parquet",
+      "first": "9546739516",
+      "last": "9534594822",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_117.parquet",
+      "first": "9534594821",
+      "last": "9525471081",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_118.parquet",
+      "first": "9525471080",
+      "last": "9523302934",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_119.parquet",
+      "first": "9523302933",
+      "last": "9508150299",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_120.parquet",
+      "first": "9508150298",
+      "last": "9507048671",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_121.parquet",
+      "first": "9507048670",
+      "last": "9472231246",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_122.parquet",
+      "first": "9472231245",
+      "last": "9470255880",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_123.parquet",
+      "first": "9470255879",
+      "last": "9430381598",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_124.parquet",
+      "first": "9430381592",
+      "last": "9341256635",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_125.parquet",
+      "first": "9341256633",
+      "last": "9334182022",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_126.parquet",
+      "first": "9334182021",
+      "last": "9304264077",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_127.parquet",
+      "first": "9304264075",
+      "last": "9279139347",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_128.parquet",
+      "first": "9279139343",
+      "last": "9262602590",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_129.parquet",
+      "first": "9262602589",
+      "last": "9199278327",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_130.parquet",
+      "first": "9199278326",
+      "last": "9162127239",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_131.parquet",
+      "first": "9162127238",
+      "last": "9153895704",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_132.parquet",
+      "first": "9153895702",
+      "last": "9142661805",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_133.parquet",
+      "first": "9142661804",
+      "last": "9135553047",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_134.parquet",
+      "first": "9135553046",
+      "last": "9128429311",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_135.parquet",
+      "first": "9128429310",
+      "last": "9122577435",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_136.parquet",
+      "first": "9122577434",
+      "last": "9117408365",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_137.parquet",
+      "first": "9117408364",
+      "last": "9110023319",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_138.parquet",
+      "first": "9110023318",
+      "last": "9085908965",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_139.parquet",
+      "first": "9085908349",
+      "last": "9060769896",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_140.parquet",
+      "first": "9060769894",
+      "last": "9031295368",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_141.parquet",
+      "first": "9031295366",
+      "last": "9006082539",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_142.parquet",
+      "first": "9006082539",
+      "last": "8969787770",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_143.parquet",
+      "first": "8969787769",
+      "last": "8928997796",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_144.parquet",
+      "first": "8928997720",
+      "last": "8873897825",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_145.parquet",
+      "first": "8873897824",
+      "last": "8863885778",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_146.parquet",
+      "first": "8863885776",
+      "last": "8809578685",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_147.parquet",
+      "first": "8809578681",
+      "last": "8797520433",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_148.parquet",
+      "first": "8797520432",
+      "last": "8789392853",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_149.parquet",
+      "first": "8789392851",
+      "last": "8757271631",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_150.parquet",
+      "first": "8757271630",
+      "last": "8709218909",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_151.parquet",
+      "first": "8709218908",
+      "last": "8657140618",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_152.parquet",
+      "first": "8657140344",
+      "last": "8603916242",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_153.parquet",
+      "first": "8603916241",
+      "last": "8581826560",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_154.parquet",
+      "first": "8581826559",
+      "last": "8544064937",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_155.parquet",
+      "first": "8544064935",
+      "last": "8521832649",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_156.parquet",
+      "first": "8521832648",
+      "last": "8434775571",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_157.parquet",
+      "first": "8434775571",
+      "last": "8409491887",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_158.parquet",
+      "first": "8409491886",
+      "last": "8404923933",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_159.parquet",
+      "first": "8404923931",
+      "last": "8298864263",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_160.parquet",
+      "first": "8298864262",
+      "last": "8294623353",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_161.parquet",
+      "first": "8294623352",
+      "last": "8292435462",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_162.parquet",
+      "first": "8292435461",
+      "last": "8271238221",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_163.parquet",
+      "first": "8271238217",
+      "last": "8252160599",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_164.parquet",
+      "first": "8252160598",
+      "last": "8229896339",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_165.parquet",
+      "first": "8229896338",
+      "last": "8210841881",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_166.parquet",
+      "first": "8210841880",
+      "last": "8207653942",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_167.parquet",
+      "first": "8207653941",
+      "last": "8102399753",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_168.parquet",
+      "first": "8102399752",
+      "last": "8092268554",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_169.parquet",
+      "first": "8092268552",
+      "last": "8084082737",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_170.parquet",
+      "first": "8084082736",
+      "last": "8051099614",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_171.parquet",
+      "first": "8051099613",
+      "last": "7992458140",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_172.parquet",
+      "first": "7992458139",
+      "last": "7970672033",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_173.parquet",
+      "first": "7970672032",
+      "last": "7903376852",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_174.parquet",
+      "first": "7903376850",
+      "last": "7870249074",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_175.parquet",
+      "first": "7870249072",
+      "last": "7856849269",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_176.parquet",
+      "first": "7856849268",
+      "last": "7783096178",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_177.parquet",
+      "first": "7783096177",
+      "last": "7766049319",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_178.parquet",
+      "first": "7766049318",
+      "last": "7762015457",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_179.parquet",
+      "first": "7762015456",
+      "last": "7739422178",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_180.parquet",
+      "first": "7739422177",
+      "last": "7667984471",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_181.parquet",
+      "first": "7667984470",
+      "last": "7654827406",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_182.parquet",
+      "first": "7654827405",
+      "last": "7645064165",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_183.parquet",
+      "first": "7645064164",
+      "last": "7633084402",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_184.parquet",
+      "first": "7633084401",
+      "last": "7631132687",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_185.parquet",
+      "first": "7631132686",
+      "last": "7557766395",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_186.parquet",
+      "first": "7557766394",
+      "last": "7547047997",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_187.parquet",
+      "first": "7547047996",
+      "last": "7542956887",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_188.parquet",
+      "first": "7542956886",
+      "last": "7520105614",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_189.parquet",
+      "first": "7520105613",
+      "last": "7488846625",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_190.parquet",
+      "first": "7488846624",
+      "last": "7484916184",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_191.parquet",
+      "first": "7484916183",
+      "last": "7479882435",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_192.parquet",
+      "first": "7479882433",
+      "last": "7461946366",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_193.parquet",
+      "first": "7461946365",
+      "last": "7369885654",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_194.parquet",
+      "first": "7369885653",
+      "last": "7362041797",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_195.parquet",
+      "first": "7362041796",
+      "last": "7352343509",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_196.parquet",
+      "first": "7352343508",
+      "last": "7323036110",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_197.parquet",
+      "first": "7323036109",
+      "last": "7319713939",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_198.parquet",
+      "first": "7319713938",
+      "last": "7283054743",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_199.parquet",
+      "first": "7283054742",
+      "last": "7260967730",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_200.parquet",
+      "first": "7260967730",
+      "last": "7260967730",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_201.parquet",
+      "first": "7260967730",
+      "last": "7250387121",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_202.parquet",
+      "first": "7250387120",
+      "last": "7209200642",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_203.parquet",
+      "first": "7209200641",
+      "last": "7079989011",
+      "rows": 999999
+         },
+    {
+      "file": "data/Hi-Tek_Part_204.parquet",
+      "first": "7079989010",
+      "last": "7070813130",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_205.parquet",
+      "first": "7070813129",
+      "last": "7061670358",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_206.parquet",
+      "first": "7061670357",
+      "last": "7050578055",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_207.parquet",
+      "first": "7050578054",
+      "last": "7033398275",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_208.parquet",
+      "first": "7033398272",
+      "last": "7004371941",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_209.parquet",
+      "first": "7004371940",
+      "last": "6299434042",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_210.parquet",
+      "first": "6299434041",
+      "last": "6287073113",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_211.parquet",
+      "first": "6287073110",
+      "last": "6209026743",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_212.parquet",
+      "first": "6209026742",
+      "last": "6206996761",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_213.parquet",
+      "first": "6206996760",
+      "last": "6205957575",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_214.parquet",
+      "first": "6205957574",
+      "last": "6204927487",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_215.parquet",
+      "first": "6204927486",
+      "last": "6203896597",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_216.parquet",
+      "first": "6203896596",
+      "last": "6202866083",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_217.parquet",
+      "first": "6202866082",
+      "last": "6201833627",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_218.parquet",
+      "first": "6201833626",
+      "last": "6200796069",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_219.parquet",
+      "first": "6200796068",
+      "last": "5753021173577",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_220.parquet",
+      "first": "5753021173576",
+      "last": "5753020174078",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_221.parquet",
+      "first": "5753020174077",
+      "last": "9997117292",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_222.parquet",
+      "first": "9997117290",
+      "last": "9956929984",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_223.parquet",
+      "first": "9956929983",
+      "last": "9936277066",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_224.parquet",
+      "first": "9936277064",
+      "last": "9927563443",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_225.parquet",
+      "first": "9927563442",
+      "last": "9919201215",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_226.parquet",
+      "first": "9919201214",
+      "last": "9918012906",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_227.parquet",
+      "first": "9918012905",
+      "last": "9897398099",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_228.parquet",
+      "first": "9897398098",
+      "last": "9873763603",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_229.parquet",
+      "first": "9873763586",
+      "last": "9839114825",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_230.parquet",
+      "first": "9839114824",
+      "last": "9837880583",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_231.parquet",
+      "first": "9837880581",
+      "last": "9795648372",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_232.parquet",
+      "first": "9795648370",
+      "last": "9794059538",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_233.parquet",
+      "first": "9794059536",
+      "last": "9792580727",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_234.parquet",
+      "first": "9792580725",
+      "last": "9760782176",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_235.parquet",
+      "first": "9760782175",
+      "last": "9758641492",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_236.parquet",
+      "first": "9758641489",
+      "last": "9721773147",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_237.parquet",
+      "first": "9721773146",
+      "last": "9719934465",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_238.parquet",
+      "first": "9719934459",
+      "last": "9696339506",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_239.parquet",
+      "first": "9696339505",
+      "last": "9690803097",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_240.parquet",
+      "first": "9690803095",
+      "last": "9675304544",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_241.parquet",
+      "first": "9675304536",
+      "last": "9653014222",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_242.parquet",
+      "first": "9653014220",
+      "last": "9648449879",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_243.parquet",
+      "first": "9648449878",
+      "last": "9634889131",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_244.parquet",
+      "first": "9634889130",
+      "last": "9628401191",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_245.parquet",
+      "first": "9628401190",
+      "last": "9621430013",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_246.parquet",
+      "first": "9621430008",
+      "last": "9598957201",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_247.parquet",
+      "first": "9598957198",
+      "last": "9580574514",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_248.parquet",
+      "first": "9580574513",
+      "last": "9569310180",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_249.parquet",
+      "first": "9569310179",
+      "last": "9565722723",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_250.parquet",
+      "first": "9565722722",
+      "last": "9559292020",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_251.parquet",
+      "first": "9559292019",
+      "last": "9555656941",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_252.parquet",
+      "first": "9555656938",
+      "last": "9554253162",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_253.parquet",
+      "first": "9554253161",
+      "last": "9536594451",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_254.parquet",
+      "first": "9536594444",
+      "last": "9520806694",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_255.parquet",
+      "first": "9520806693",
+      "last": "9517690498",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_256.parquet",
+      "first": "9517690496",
+      "last": "9506334030",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_257.parquet",
+      "first": "9506334029",
+      "last": "9453211404",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_258.parquet",
+      "first": "9453211402",
+      "last": "9412492836",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_259.parquet",
+      "first": "9412492833",
+      "last": "9370863105",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_260.parquet",
+      "first": "9370863088",
+      "last": "9368736506",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_261.parquet",
+      "first": "9368736504",
+      "last": "9336577090",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_262.parquet",
+      "first": "9336577089",
+      "last": "9335363075",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_263.parquet",
+      "first": "9335363073",
+      "last": "9305440292",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_264.parquet",
+      "first": "9305440291",
+      "last": "9258137904",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_265.parquet",
+      "first": "9258137903",
+      "last": "9198518932",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_266.parquet",
+      "first": "9198518931",
+      "last": "9170171650",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_267.parquet",
+      "first": "9170171649",
+      "last": "9151772207",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_268.parquet",
+      "first": "9151772206",
+      "last": "9140613521",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_269.parquet",
+      "first": "9140613520",
+      "last": "9129248613",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_270.parquet",
+      "first": "9129248611",
+      "last": "9120569918",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_271.parquet",
+      "first": "9120569916",
+      "last": "9118377509",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_272.parquet",
+      "first": "9118377506",
+      "last": "9084917745",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_273.parquet",
+      "first": "9084917744",
+      "last": "9068532679",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_274.parquet",
+      "first": "9068532677",
+      "last": "9045704029",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_275.parquet",
+      "first": "9045704027",
+      "last": "9044117496",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_276.parquet",
+      "first": "9044117495",
+      "last": "9026688682",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_277.parquet",
+      "first": "9026688681",
+      "last": "9012204593",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_278.parquet",
+      "first": "9012204592",
+      "last": "8979677108",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_279.parquet",
+      "first": "8979677105",
+      "last": "8960070278",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_280.parquet",
+      "first": "8960070277",
+      "last": "8957420487",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_281.parquet",
+      "first": "8957420486",
+      "last": "8953299812",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_282.parquet",
+      "first": "8953299810",
+      "last": "8941025184",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_283.parquet",
+      "first": "8941025180",
+      "last": "8931007830",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_284.parquet",
+      "first": "8931007829",
+      "last": "8920790961",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_285.parquet",
+      "first": "8920790928",
+      "last": "8881765902",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_286.parquet",
+      "first": "8881765901",
+      "last": "8874360068",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_287.parquet",
+      "first": "8874360066",
+      "last": "8859977429",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_288.parquet",
+      "first": "8859977428",
+      "last": "8853812015",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_289.parquet",
+      "first": "8853812014",
+      "last": "8840489683",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_290.parquet",
+      "first": "8840489682",
+      "last": "8808579650",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_291.parquet",
+      "first": "8808579649",
+      "last": "8795138182",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_292.parquet",
+      "first": "8795138181",
+      "last": "8765719859",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_293.parquet",
+      "first": "8765719851",
+      "last": "8755585569",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_294.parquet",
+      "first": "8755585568",
+      "last": "8736817380",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_295.parquet",
+      "first": "8736817376",
+      "last": "8707366194",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_296.parquet",
+      "first": "8707366193",
+      "last": "8630415392",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_297.parquet",
+      "first": "8630415390",
+      "last": "8601859054",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_298.parquet",
+      "first": "8601859053",
+      "last": "8573981705",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_299.parquet",
+      "first": "8573981704",
+      "last": "8534981041",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_300.parquet",
+      "first": "8534981040",
+      "last": "8528243116",
+      "rows": 999999
+    },
+        {
+      "file": "data/Hi-Tek_Part_301.parquet",
+      "first": "8528243114",
+      "last": "8467932578",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_302.parquet",
+      "first": "8467932577",
+      "last": "8445529200",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_303.parquet",
+      "first": "8445529199",
+      "last": "8433264507",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_304.parquet",
+      "first": "8433264503",
+      "last": "8423807989",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_305.parquet",
+      "first": "8423807988",
+      "last": "8400966963",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_306.parquet",
+      "first": "8400966961",
+      "last": "8382908561",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_307.parquet",
+      "first": "8382908560",
+      "last": "8318614426",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_308.parquet",
+      "first": "8318614425",
+      "last": "8303590508",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_309.parquet",
+      "first": "8303590503",
+      "last": "8299318699",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_310.parquet",
+      "first": "8299318698",
+      "last": "8273672957",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_311.parquet",
+      "first": "8273672955",
+      "last": "8218977455",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_312.parquet",
+      "first": "8218977454",
+      "last": "8191930574",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_313.parquet",
+      "first": "8191930573",
+      "last": "8174075998",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_314.parquet",
+      "first": "8174075995",
+      "last": "8171051351",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_315.parquet",
+      "first": "8171051350",
+      "last": "8126570611",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_316.parquet",
+      "first": "8126570610",
+      "last": "8115163657",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_317.parquet",
+      "first": "8115163655",
+      "last": "8090268094",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_318.parquet",
+      "first": "8090268093",
+      "last": "8077978032",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_319.parquet",
+      "first": "8077978031",
+      "last": "8057290988",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_320.parquet",
+      "first": "8057290987",
+      "last": "8009900223",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_321.parquet",
+      "first": "8009900221",
+      "last": "8004695486",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_322.parquet",
+      "first": "8004695479",
+      "last": "7985711185",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_323.parquet",
+      "first": "7985711184",
+      "last": "7983464874",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_324.parquet",
+      "first": "7983464873",
+      "last": "7905975033",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_325.parquet",
+      "first": "7905975032",
+      "last": "7900884665",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_326.parquet",
+      "first": "7900884662",
+      "last": "7895943463",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_327.parquet",
+      "first": "7895943462",
+      "last": "7880864919",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_328.parquet",
+      "first": "7880864917",
+      "last": "7860193605",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_329.parquet",
+      "first": "7860193604",
+      "last": "7817982388",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_330.parquet",
+      "first": "7817982386",
+      "last": "7786912265",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_331.parquet",
+      "first": "7786912257",
+      "last": "7705962357",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_332.parquet",
+      "first": "7705962356",
+      "last": "7668271201",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_333.parquet",
+      "first": "7668271197",
+      "last": "7607905320",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_334.parquet",
+      "first": "7607905319",
+      "last": "7607905320",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_335.parquet",
+      "first": "7607905319",
+      "last": "7571036009",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_336.parquet",
+      "first": "7571036008",
+      "last": "7525865897",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_337.parquet",
+      "first": "7525865896",
+      "last": "7518764016",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_338.parquet",
+      "first": "7518764015",
+      "last": "7505334382",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_339.parquet",
+      "first": "7505334381",
+      "last": "7466014734",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_340.parquet",
+      "first": "7466014733",
+      "last": "7456922558",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_341.parquet",
+      "first": "7456922557",
+      "last": "7451887553",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_342.parquet",
+      "first": "7451887552",
+      "last": "7409275370",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_343.parquet",
+      "first": "7409275361",
+      "last": "7398585076",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_344.parquet",
+      "first": "7398585072",
+      "last": "7392864839",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_345.parquet",
+      "first": "7392864838",
+      "last": "7388007851",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_346.parquet",
+      "first": "7388007850",
+      "last": "7379273801",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_347.parquet",
+      "first": "7379273799",
+      "last": "7351906355",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_348.parquet",
+      "first": "7351906353",
+      "last": "7318216074",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_349.parquet",
+      "first": "7318216073",
+      "last": "7310590922",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_350.parquet",
+      "first": "7310590921",
+      "last": "7307803500",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_351.parquet",
+      "first": "7307803499",
+      "last": "7302380106",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_352.parquet",
+      "first": "7302380104",
+      "last": "7266076544",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_353.parquet",
+      "first": "7266076541",
+      "last": "7266076544",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_354.parquet",
+      "first": "7266076541",
+      "last": "7235964075",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_355.parquet",
+      "first": "7235964074",
+      "last": "7088774758",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_356.parquet",
+      "first": "7088774755",
+      "last": "7081532591",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_357.parquet",
+      "first": "7081532590",
+      "last": "7080001170",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_358.parquet",
+      "first": "7080001169",
+      "last": "7068657467",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_359.parquet",
+      "first": "7068657466",
+      "last": "7060163579",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_360.parquet",
+      "first": "7060163578",
+      "last": "7054163768",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_361.parquet",
+      "first": "7054163767",
+      "last": "7037420204",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_362.parquet",
+      "first": "7037420203",
+      "last": "7016315812",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_363.parquet",
+      "first": "7016315594",
+      "last": "6399480770",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_364.parquet",
+      "first": "6399480768",
+      "last": "6397776306",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_365.parquet",
+      "first": "6397776304",
+      "last": "6396274772",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_366.parquet",
+      "first": "6396274771",
+      "last": "6394834133",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_367.parquet",
+      "first": "6394834132",
+      "last": "6393686738",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_368.parquet",
+      "first": "6393686737",
+      "last": "6392497048",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_369.parquet",
+      "first": "6392497047",
+      "last": "6391135047",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_370.parquet",
+      "first": "6391135041",
+      "last": "6389615989",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_371.parquet",
+      "first": "6389615988",
+      "last": "6388283007",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_372.parquet",
+      "first": "6388283006",
+      "last": "6387127054",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_373.parquet",
+      "first": "6387127052",
+      "last": "6355492158",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_374.parquet",
+      "first": "6355492046",
+      "last": "6306866713",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_375.parquet",
+      "first": "6306866712",
+      "last": "5755191726812",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_376.parquet",
+      "first": "5755191726811",
+      "last": "5223506984",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_377.parquet",
+      "first": "5223506983",
+      "last": "8923563224",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_378.parquet",
+      "first": "8923563208",
+      "last": "7500192773",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_379.parquet",
+      "first": "7500192756",
+      "last": "9998847943",
+      "rows": 999983
+    },
+    {
+      "file": "data/Hi-Tek_Part_380.parquet",
+      "first": "9998847942",
+      "last": "9979636631",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_381.parquet",
+      "first": "9979636630",
+      "last": "9978585122",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_382.parquet",
+      "first": "9978585121",
+      "last": "9974423800",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_383.parquet",
+      "first": "9974423799",
+      "last": "9925389842",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_384.parquet",
+      "first": "9925389841",
+      "last": "9924569346",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_385.parquet",
+      "first": "9924569345",
+      "last": "9913863911",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_386.parquet",
+      "first": "9913863910",
+      "last": "9909829713",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_387.parquet",
+      "first": "9909829712",
+      "last": "9904881787",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_388.parquet",
+      "first": "9904881786",
+      "last": "9904194203",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_389.parquet",
+      "first": "9904194202",
+      "last": "9898143882",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_390.parquet",
+      "first": "9898143881",
+      "last": "9879104073",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_391.parquet",
+      "first": "9879104072",
+      "last": "9825464512",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_392.parquet",
+      "first": "9825464511",
+      "last": "9824623772",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_393.parquet",
+      "first": "9824623772",
+      "last": "9773448933",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_394.parquet",
+      "first": "9773448933",
+      "last": "9737532708",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_395.parquet",
+      "first": "9737532707",
+      "last": "9727760861",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_396.parquet",
+      "first": "9727760860",
+      "last": "9726681183",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_397.parquet",
+      "first": "9726681182",
+      "last": "9725522798",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_398.parquet",
+      "first": "9725522797",
+      "last": "9724234798",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_399.parquet",
+      "first": "9724234797",
+      "last": "9723431004",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_400.parquet",
+      "first": "9723431004",
+      "last": "9714786653",
+      "rows": 999999
+    },
+      {
+      "file": "data/Hi-Tek_Part_401.parquet",
+      "first": "9714786653",
+      "last": "9714093104",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_402.parquet",
+      "first": "9714093103",
+      "last": "9712084458",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_403.parquet",
+      "first": "9712084457",
+      "last": "9672005976",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_404.parquet",
+      "first": "9672005440",
+      "last": "9662186000",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_405.parquet",
+      "first": "9662185995",
+      "last": "9638060065",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_406.parquet",
+      "first": "9638060064",
+      "last": "9624345734",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_407.parquet",
+      "first": "9624345734",
+      "last": "9601138899",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_408.parquet",
+      "first": "9601138898",
+      "last": "9575711872",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_409.parquet",
+      "first": "9575709975",
+      "last": "9574294835",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_410.parquet",
+      "first": "9574294834",
+      "last": "9558108203",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_411.parquet",
+      "first": "9558108202",
+      "last": "9536910223",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_412.parquet",
+      "first": "9536908608",
+      "last": "9510895607",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_413.parquet",
+      "first": "9510895606",
+      "last": "9499766496",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_414.parquet",
+      "first": "9499766495",
+      "last": "9429547762",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_415.parquet",
+      "first": "9429547762",
+      "last": "9428479146",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_416.parquet",
+      "first": "9428479145",
+      "last": "9427404014",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_417.parquet",
+      "first": "9427404013",
+      "last": "9426310501",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_418.parquet",
+      "first": "9426310500",
+      "last": "9409148756",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_419.parquet",
+      "first": "9409148755",
+      "last": "9408017391",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_420.parquet",
+      "first": "9408017390",
+      "last": "9328383031",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_421.parquet",
+      "first": "9328383030",
+      "last": "9327406579",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_422.parquet",
+      "first": "9327406578",
+      "last": "9316419421",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_423.parquet",
+      "first": "9316419420",
+      "last": "9313349499",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_424.parquet",
+      "first": "9313349497",
+      "last": "9265427889",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_425.parquet",
+      "first": "9265427889",
+      "last": "9173383850",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_426.parquet",
+      "first": "9173383849",
+      "last": "9157235829",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_427.parquet",
+      "first": "9157235827",
+      "last": "9106271739",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_428.parquet",
+      "first": "9106271738",
+      "last": "9104027616",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_429.parquet",
+      "first": "9104027615",
+      "last": "9104027616",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_430.parquet",
+      "first": "9104027615",
+      "last": "9081302788",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_431.parquet",
+      "first": "9081302787",
+      "last": "9054320669",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_432.parquet",
+      "first": "9054320664",
+      "last": "9023559113",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_433.parquet",
+      "first": "9023559112",
+      "last": "9016532512",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_434.parquet",
+      "first": "9016532510",
+      "last": "8980494574",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_435.parquet",
+      "first": "8980494573",
+      "last": "8866516475",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_436.parquet",
+      "first": "8866516474",
+      "last": "8849493306",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_437.parquet",
+      "first": "8849493305",
+      "last": "8799167599",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_438.parquet",
+      "first": "8799167599",
+      "last": "8780172158",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_439.parquet",
+      "first": "8780172157",
+      "last": "8758043215",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_440.parquet",
+      "first": "8758043214",
+      "last": "8511745268",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_441.parquet",
+      "first": "8511745267",
+      "last": "8488007981",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_442.parquet",
+      "first": "8488007979",
+      "last": "8469139357",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_443.parquet",
+      "first": "8469139356",
+      "last": "8347971104",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_444.parquet",
+      "first": "8347971103",
+      "last": "8347218669",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_445.parquet",
+      "first": "8347218669",
+      "last": "8320291475",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_446.parquet",
+      "first": "8320291474",
+      "last": "8238342807",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_447.parquet",
+      "first": "8238342806",
+      "last": "8200310383",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_448.parquet",
+      "first": "8200310382",
+      "last": "8160305485",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_449.parquet",
+      "first": "8160305484",
+      "last": "8154894720",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_450.parquet",
+      "first": "8154894720",
+      "last": "8141655218",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_451.parquet",
+      "first": "8141655217",
+      "last": "8140715896",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_452.parquet",
+      "first": "8140715895",
+      "last": "8128998054",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_453.parquet",
+      "first": "8128998053",
+      "last": "8000728036",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_454.parquet",
+      "first": "8000728036",
+      "last": "7990165467",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_455.parquet",
+      "first": "7990165466",
+      "last": "7984155327",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_456.parquet",
+      "first": "7984155326",
+      "last": "7874213161",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_457.parquet",
+      "first": "7874213160",
+      "last": "7861027145",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_458.parquet",
+      "first": "7861027144",
+      "last": "7777922358",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_459.parquet",
+      "first": "7777922357",
+      "last": "7698283064",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_460.parquet",
+      "first": "7698283063",
+      "last": "7622948477",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_461.parquet",
+      "first": "7622948476",
+      "last": "7600686815",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_462.parquet",
+      "first": "7600686814",
+      "last": "7574032024",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_463.parquet",
+      "first": "7574032023",
+      "last": "7567338485",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_464.parquet",
+      "first": "7567338483",
+      "last": "7435906562",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_465.parquet",
+      "first": "7435906561",
+      "last": "7383902179",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_466.parquet",
+      "first": "7383902179",
+      "last": "7359832879",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_467.parquet",
+      "first": "7359832879",
+      "last": "7359069881",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_468.parquet",
+      "first": "7359069880",
+      "last": "7283806595",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_469.parquet",
+      "first": "7283806594",
+      "last": "7203974672",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_470.parquet",
+      "first": "7203974672",
+      "last": "7201813087",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_471.parquet",
+      "first": "7201813086",
+      "last": "7096288417",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_472.parquet",
+      "first": "7096288416",
+      "last": "7069279698",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_473.parquet",
+      "first": "7069279697",
+      "last": "7046485414",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_474.parquet",
+      "first": "7046485413",
+      "last": "7043175038",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_475.parquet",
+      "first": "7043175037",
+      "last": "7016931353",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_476.parquet",
+      "first": "7016931352",
+      "last": "6359945144",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_477.parquet",
+      "first": "6359945142",
+      "last": "6357256430",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_478.parquet",
+      "first": "6357256429",
+      "last": "6356148009",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_479.parquet",
+      "first": "6356148006",
+      "last": "6355179475",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_480.parquet",
+      "first": "6355179474",
+      "last": "6354207106",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_481.parquet",
+      "first": "6354207106",
+      "last": "6353231667",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_482.parquet",
+      "first": "6353231666",
+      "last": "6352246015",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_483.parquet",
+      "first": "6352246014",
+      "last": "6351263265",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_484.parquet",
+      "first": "6351263264",
+      "last": "9933986648",
+      "rows": 999994
+    },
+    {
+      "file": "data/Hi-Tek_Part_485.parquet",
+      "first": "9933986647",
+      "last": "9932695794",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_486.parquet",
+      "first": "9932695793",
+      "last": "9907387807",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_487.parquet",
+      "first": "9907387806",
+      "last": "9883905025",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_488.parquet",
+      "first": "9883905024",
+      "last": "9875387790",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_489.parquet",
+      "first": "9875387787",
+      "last": "9851018837",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_490.parquet",
+      "first": "9851018830",
+      "last": "9832845539",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_491.parquet",
+      "first": "9832845538",
+      "last": "9831621440",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_492.parquet",
+      "first": "9831621439",
+      "last": "9830363474",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_493.parquet",
+      "first": "9830363473",
+      "last": "9800415589",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_494.parquet",
+      "first": "9800415588",
+      "last": "9775291792",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_495.parquet",
+      "first": "9775291791",
+      "last": "9749085717",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_496.parquet",
+      "first": "9749085716",
+      "last": "9735675508",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_497.parquet",
+      "first": "9735675507",
+      "last": "9734618462",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_498.parquet",
+      "first": "9734618461",
+      "last": "9733552890",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_499.parquet",
+      "first": "9733552889",
+      "last": "9732472211",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_500.parquet",
+      "first": "9732472210",
+      "last": "9679433316",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_501.parquet",
+      "first": "9679433315",
+      "last": "9674109866",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_502.parquet",
+      "first": "9674109864",
+      "last": "9641988195",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_503.parquet",
+      "first": "9641988193",
+      "last": "9635770281",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_504.parquet",
+      "first": "9635770279",
+      "last": "9609819958",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_505.parquet",
+      "first": "9609819957",
+      "last": "9593680726",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_506.parquet",
+      "first": "9593680725",
+      "last": "9564549390",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_507.parquet",
+      "first": "9564549389",
+      "last": "9547565315",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_508.parquet",
+      "first": "9547565314",
+      "last": "9475879141",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_509.parquet",
+      "first": "9475879140",
+      "last": "9434577919",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_510.parquet",
+      "first": "9434577918",
+      "last": "9382467519",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_511.parquet",
+      "first": "9382467518",
+      "last": "9339373483",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_512.parquet",
+      "first": "9339373482",
+      "last": "9330382290",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_513.parquet",
+      "first": "9330382289",
+      "last": "9163218934",
+      "rows": 999999
+    },
+        {
+      "file": "data/Hi-Tek_Part_514.parquet",
+      "first": "9163218933",
+      "last": "9143470805",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_515.parquet",
+      "first": "9143470797",
+      "last": "9123702536",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_516.parquet",
+      "first": "9123702535",
+      "last": "9091957028",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_517.parquet",
+      "first": "9091957027",
+      "last": "9088311640",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_518.parquet",
+      "first": "9088311638",
+      "last": "9073819004",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_519.parquet",
+      "first": "9073819002",
+      "last": "9064487346",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_520.parquet",
+      "first": "9064487345",
+      "last": "9051833208",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_521.parquet",
+      "first": "9051833207",
+      "last": "9046273315",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_522.parquet",
+      "first": "9046273312",
+      "last": "9002962422",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_523.parquet",
+      "first": "9002962421",
+      "last": "8981234506",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_524.parquet",
+      "first": "8981234502",
+      "last": "8967903815",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_525.parquet",
+      "first": "8967903814",
+      "last": "8961104663",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_526.parquet",
+      "first": "8961104661",
+      "last": "8927738617",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_527.parquet",
+      "first": "8927738616",
+      "last": "8918611438",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_528.parquet",
+      "first": "8918611437",
+      "last": "8910393484",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_529.parquet",
+      "first": "8910393483",
+      "last": "8777805964",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_530.parquet",
+      "first": "8777805963",
+      "last": "8768329405",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_531.parquet",
+      "first": "8768329404",
+      "last": "8697220993",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_532.parquet",
+      "first": "8697220992",
+      "last": "8670633272",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_533.parquet",
+      "first": "8670633271",
+      "last": "8653433657",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_534.parquet",
+      "first": "8653433656",
+      "last": "8617881308",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_535.parquet",
+      "first": "8617881307",
+      "last": "8609529370",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_536.parquet",
+      "first": "8609529369",
+      "last": "8597210727",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_537.parquet",
+      "first": "8597210725",
+      "last": "8537052898",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_538.parquet",
+      "first": "8537052896",
+      "last": "8509970392",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_539.parquet",
+      "first": "8509970390",
+      "last": "8479978939",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_540.parquet",
+      "first": "8479978937",
+      "last": "8436063275",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_541.parquet",
+      "first": "8436063273",
+      "last": "8389951359",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_542.parquet",
+      "first": "8389951357",
+      "last": "8371822009",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_543.parquet",
+      "first": "8371822004",
+      "last": "8348218646",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_544.parquet",
+      "first": "8348218645",
+      "last": "8336021993",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_545.parquet",
+      "first": "8336021992",
+      "last": "8327217595",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_546.parquet",
+      "first": "8327217594",
+      "last": "8293134329",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_547.parquet",
+      "first": "8293134328",
+      "last": "8250520958",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_548.parquet",
+      "first": "8250520957",
+      "last": "8240295292",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_549.parquet",
+      "first": "8240295291",
+      "last": "8167586174",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_550.parquet",
+      "first": "8167586173",
+      "last": "8145925811",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_551.parquet",
+      "first": "8145925810",
+      "last": "8116789573",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_552.parquet",
+      "first": "8116789572",
+      "last": "8101602360",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_553.parquet",
+      "first": "8101602359",
+      "last": "8017941276",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_554.parquet",
+      "first": "8017941274",
+      "last": "8016579540",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_555.parquet",
+      "first": "8016579539",
+      "last": "8001643720",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_556.parquet",
+      "first": "8001643719",
+      "last": "7980466899",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_557.parquet",
+      "first": "7980466897",
+      "last": "7908283136",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_558.parquet",
+      "first": "7908283135",
+      "last": "7872684081",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_559.parquet",
+      "first": "7872684080",
+      "last": "7865828560",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_560.parquet",
+      "first": "7865828559",
+      "last": "7797830608",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_561.parquet",
+      "first": "7797830607",
+      "last": "7718798561",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_562.parquet",
+      "first": "7718798560",
+      "last": "7699435626",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_563.parquet",
+      "first": "7699435624",
+      "last": "7679214730",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_564.parquet",
+      "first": "7679214729",
+      "last": "7602232839",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_565.parquet",
+      "first": "7602232838",
+      "last": "7585893041",
+      "rows": 999998
+    },
+    {
+      "file": "data/Hi-Tek_Part_566.parquet",
+      "first": "7585893040",
+      "last": "7550822791",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_567.parquet",
+      "first": "7550822790",
+      "last": "7501170740",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_568.parquet",
+      "first": "7501170739",
+      "last": "7478334252",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_569.parquet",
+      "first": "7478334251",
+      "last": "7449716303",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_570.parquet",
+      "first": "7449716302",
+      "last": "7432881930",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_571.parquet",
+      "first": "7432881928",
+      "last": "7407628485",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_572.parquet",
+      "first": "7407628484",
+      "last": "7384407993",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_573.parquet",
+      "first": "7384407992",
+      "last": "7363839180",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_574.parquet",
+      "first": "7363839179",
+      "last": "7318684963",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_575.parquet",
+      "first": "7318684962",
+      "last": "7076135525",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_576.parquet",
+      "first": "7076135524",
+      "last": "7063592985",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_577.parquet",
+      "first": "7063592984",
+      "last": "7047431687",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_578.parquet",
+      "first": "7047431681",
+      "last": "7029949134",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_579.parquet",
+      "first": "7029949133",
+      "last": "7003709076",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_580.parquet",
+      "first": "7003709075",
+      "last": "7001481611",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_581.parquet",
+      "first": "7001481610",
+      "last": "6297393822",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_582.parquet",
+      "first": "6297393821",
+      "last": "6296274203",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_583.parquet",
+      "first": "6296274202",
+      "last": "6295166474",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_584.parquet",
+      "first": "6295166473",
+      "last": "6294062841",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_585.parquet",
+      "first": "6294062840",
+      "last": "6290878384",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_586.parquet",
+      "first": "6290878383",
+      "last": "6289572209",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_587.parquet",
+      "first": "6289572208",
+      "last": "9993676780",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_588.parquet",
+      "first": "9993676778",
+      "last": "9981479851",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_589.parquet",
+      "first": "9981479850",
+      "last": "9977360549",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_590.parquet",
+      "first": "9977360548",
+      "last": "9926348281",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_591.parquet",
+      "first": "9926348280",
+      "last": "9893484153",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_592.parquet",
+      "first": "9893484152",
+      "last": "9826769119",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_593.parquet",
+      "first": "9826769118",
+      "last": "9770727089",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_594.parquet",
+      "first": "9770727088",
+      "last": "9755470986",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_595.parquet",
+      "first": "9755470985",
+      "last": "9754308141",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_596.parquet",
+      "first": "9754308140",
+      "last": "9753118948",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_597.parquet",
+      "first": "9753118947",
+      "last": "9713862222",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_598.parquet",
+      "first": "9713862221",
+      "last": "9691522587",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_599.parquet",
+      "first": "9691522586",
+      "last": "9685304845",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_600.parquet",
+      "first": "9685304844",
+      "last": "9669119420",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_601.parquet",
+      "first": "9669119419",
+      "last": "9630968389",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_602.parquet",
+      "first": "9630968388",
+      "last": "9617765583",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_603.parquet",
+      "first": "9617765582",
+      "last": "9589602690",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_604.parquet",
+      "first": "9589602689",
+      "last": "9584247502",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_605.parquet",
+      "first": "9584247497",
+      "last": "9575021988",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_606.parquet",
+      "first": "9575021987",
+      "last": "9516650164",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_607.parquet",
+      "first": "9516650163",
+      "last": "9424272141",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_608.parquet",
+      "first": "9424272133",
+      "last": "9399187332",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_609.parquet",
+      "first": "9399187331",
+      "last": "9340920264",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_610.parquet",
+      "first": "9340920263",
+      "last": "9329792955",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_611.parquet",
+      "first": "9329792954",
+      "last": "9303546165",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_612.parquet",
+      "first": "9303546164",
+      "last": "9302300609",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_613.parquet",
+      "first": "9302300608",
+      "last": "9301060362",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_614.parquet",
+      "first": "9301060361",
+      "last": "9179990241",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_615.parquet",
+      "first": "9179990236",
+      "last": "9174685996",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_616.parquet",
+      "first": "9174685995",
+      "last": "9171235441",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_617.parquet",
+      "first": "9171235440",
+      "last": "9131944688",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_618.parquet",
+      "first": "9131944687",
+      "last": "9111721446",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_619.parquet",
+      "first": "9111721443",
+      "last": "9109438141",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_620.parquet",
+      "first": "9109438139",
+      "last": "9074291144",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_621.parquet",
+      "first": "9074291143",
+      "last": "9009897454",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_622.parquet",
+      "first": "9009897453",
+      "last": "8982984806",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_623.parquet",
+      "first": "8982984805",
+      "last": "8966080361",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_624.parquet",
+      "first": "8966080360",
+      "last": "8962531603",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_625.parquet",
+      "first": "8962531600",
+      "last": "8959339249",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_626.parquet",
+      "first": "8959339248",
+      "last": "8889268994",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_627.parquet",
+      "first": "8889268993",
+      "last": "8871987663",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_628.parquet",
+      "first": "8871987662",
+      "last": "8839908560",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_629.parquet",
+      "first": "8839908559",
+      "last": "8827788993",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_630.parquet",
+      "first": "8827788990",
+      "last": "8821008757",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_631.parquet",
+      "first": "8821008755",
+      "last": "8821008757",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_632.parquet",
+      "first": "8821008755",
+      "last": "8817216158",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_633.parquet",
+      "first": "8817216157",
+      "last": "8770985162",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_634.parquet",
+      "first": "8770985161",
+      "last": "8720080407",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_635.parquet",
+      "first": "8720080406",
+      "last": "8602940599",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_636.parquet",
+      "first": "8602940598",
+      "last": "8518810561",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_637.parquet",
+      "first": "8518810557",
+      "last": "8461086126",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_638.parquet",
+      "first": "8461086125",
+      "last": "8435169950",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_639.parquet",
+      "first": "8435169949",
+      "last": "8349759355",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_640.parquet",
+      "first": "8349759354",
+      "last": "8319566136",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_641.parquet",
+      "first": "8319566135",
+      "last": "8305363058",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_642.parquet",
+      "first": "8305363057",
+      "last": "8269090130",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_643.parquet",
+      "first": "8269090129",
+      "last": "8223910655",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_644.parquet",
+      "first": "8223910654",
+      "last": "8120002699",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_645.parquet",
+      "first": "8120002698",
+      "last": "8103815729",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_646.parquet",
+      "first": "8103815727",
+      "last": "8085577457",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_647.parquet",
+      "first": "8085577456",
+      "last": "7999424170",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_648.parquet",
+      "first": "7999424169",
+      "last": "7987312174",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_649.parquet",
+      "first": "7987312173",
+      "last": "7974213848",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_650.parquet",
+      "first": "7974213847",
+      "last": "7898837251",
+      "rows": 1000000
+    },
+        {
+      "file": "data/Hi-Tek_Part_651.parquet",
+      "first": "7898837250",
+      "last": "7879847360",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_652.parquet",
+      "first": "7879847358",
+      "last": "7869603642",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_653.parquet",
+      "first": "7869603641",
+      "last": "7828381740",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_654.parquet",
+      "first": "7828381738",
+      "last": "7803068273",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_655.parquet",
+      "first": "7803068272",
+      "last": "7770809674",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_656.parquet",
+      "first": "7770809673",
+      "last": "7724916694",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_657.parquet",
+      "first": "7724916692",
+      "last": "7697383950",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_658.parquet",
+      "first": "7697383949",
+      "last": "7691909339",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_659.parquet",
+      "first": "7691909338",
+      "last": "7582939319",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_660.parquet",
+      "first": "7582939318",
+      "last": "7566337473",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_661.parquet",
+      "first": "7566337472",
+      "last": "7489980737",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_662.parquet",
+      "first": "7489980736",
+      "last": "7470991181",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_663.parquet",
+      "first": "7470991180",
+      "last": "7440545395",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_664.parquet",
+      "first": "7440545395",
+      "last": "7415103634",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_665.parquet",
+      "first": "7415103633",
+      "last": "7354983251",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_666.parquet",
+      "first": "7354983250",
+      "last": "7247450626",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_667.parquet",
+      "first": "7247450625",
+      "last": "7223985774",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_668.parquet",
+      "first": "7223985772",
+      "last": "7089077312",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_669.parquet",
+      "first": "7089077310",
+      "last": "7049825935",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_670.parquet",
+      "first": "7049825933",
+      "last": "7024565653",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_671.parquet",
+      "first": "7024565652",
+      "last": "7000348917",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_672.parquet",
+      "first": "7000348915",
+      "last": "6268864944",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_673.parquet",
+      "first": "6268864943",
+      "last": "6267714132",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_674.parquet",
+      "first": "6267714131",
+      "last": "6266559258",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_675.parquet",
+      "first": "6266559257",
+      "last": "6265408033",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_676.parquet",
+      "first": "6265408032",
+      "last": "6264267299",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_677.parquet",
+      "first": "6264267298",
+      "last": "6263130059",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_678.parquet",
+      "first": "6263130058",
+      "last": "6261892056",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_679.parquet",
+      "first": "6261892055",
+      "last": "6260760848",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_680.parquet",
+      "first": "6260760846",
+      "last": "6232411668",
+      "rows": 1000000
+    },
+    {
+      "file": "data/Hi-Tek_Part_681.parquet",
+      "first": "6232411663",
+      "last": "9986473394",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_682.parquet",
+      "first": "9986473393",
+      "last": "9980415785",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_683.parquet",
+      "first": "9980415784",
+      "last": "9972397782",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_684.parquet",
+      "first": "9972397781",
+      "last": "9964313306",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_685.parquet",
+      "first": "9964313305",
+      "last": "9945290296",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_686.parquet",
+      "first": "9945290295",
+      "last": "9916242941",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_687.parquet",
+      "first": "9916242940",
+      "last": "9902237395",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_688.parquet",
+      "first": "9902237394",
+      "last": "9901224534",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_689.parquet",
+      "first": "9901224533",
+      "last": "9900219333",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_690.parquet",
+      "first": "9900219332",
+      "last": "9886137456",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_691.parquet",
+      "first": "9886137455",
+      "last": "9880145528",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_692.parquet",
+      "first": "9880145527",
+      "last": "9845137924",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_693.parquet",
+      "first": "9845137923",
+      "last": "9844121447",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_694.parquet",
+      "first": "9844121446",
+      "last": "9742983400",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_695.parquet",
+      "first": "9742983399",
+      "last": "9741841661",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_696.parquet",
+      "first": "9741841660",
+      "last": "9740830888",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_697.parquet",
+      "first": "9740830887",
+      "last": "9739797420",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_698.parquet",
+      "first": "9739797419",
+      "last": "9731881397",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_699.parquet",
+      "first": "9731881396",
+      "last": "9686891245",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_700.parquet",
+      "first": "9686891244",
+      "last": "9663869027",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_701.parquet",
+      "first": "9663869026",
+      "last": "9632875090",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_702.parquet",
+      "first": "9632875089",
+      "last": "9620821901",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_703.parquet",
+      "first": "9620821900",
+      "last": "9611715459",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_704.parquet",
+      "first": "9611715458",
+      "last": "9606622512",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_705.parquet",
+      "first": "9606622511",
+      "last": "9591528248",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_706.parquet",
+      "first": "9591528247",
+      "last": "9538581257",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_707.parquet",
+      "first": "9538581256",
+      "last": "9535491750",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_708.parquet",
+      "first": "9535491749",
+      "last": "9513032300",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_709.parquet",
+      "first": "9513032299",
+      "last": "9482991372",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_710.parquet",
+      "first": "9482991371",
+      "last": "9481919943",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_711.parquet",
+      "first": "9481919942",
+      "last": "9480797776",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_712.parquet",
+      "first": "9480797775",
+      "last": "9449773933",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_713.parquet",
+      "first": "9449773932",
+      "last": "9448765980",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_714.parquet",
+      "first": "9448765979",
+      "last": "9380764019",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_715.parquet",
+      "first": "9380764018",
+      "last": "9353620665",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_716.parquet",
+      "first": "9353620664",
+      "last": "9164901946",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_717.parquet",
+      "first": "9164901945",
+      "last": "9148657213",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_718.parquet",
+      "first": "9148657212",
+      "last": "9141033132",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_719.parquet",
+      "first": "9141033129",
+      "last": "9108898244",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_720.parquet",
+      "first": "9108898243",
+      "last": "9071617552",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_721.parquet",
+      "first": "9071617551",
+      "last": "9036261454",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_722.parquet",
+      "first": "9036261453",
+      "last": "9035011671",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_723.parquet",
+      "first": "9035011670",
+      "last": "9008802017",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_724.parquet",
+      "first": "9008802016",
+      "last": "8971815933",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_725.parquet",
+      "first": "8971815932",
+      "last": "8970668829",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_726.parquet",
+      "first": "8970668828",
+      "last": "8951335919",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_727.parquet",
+      "first": "8951335918",
+      "last": "8904226107",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_728.parquet",
+      "first": "8904226106",
+      "last": "8884286957",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_729.parquet",
+      "first": "8884286956",
+      "last": "8867258864",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_730.parquet",
+      "first": "8867258863",
+      "last": "8861201069",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_731.parquet",
+      "first": "8861201068",
+      "last": "8792101156",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_732.parquet",
+      "first": "8792101155",
+      "last": "8762002504",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_733.parquet",
+      "first": "8762002503",
+      "last": "8722529314",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_734.parquet",
+      "first": "8722529313",
+      "last": "8660391162",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_735.parquet",
+      "first": "8660391160",
+      "last": "8618209861",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_736.parquet",
+      "first": "8618209860",
+      "last": "8497095330",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_737.parquet",
+      "first": "8497095327",
+      "last": "8431587005",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_738.parquet",
+      "first": "8431587004",
+      "last": "8310726397",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_739.parquet",
+      "first": "8310726396",
+      "last": "8296575487",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_740.parquet",
+      "first": "8296575486",
+      "last": "8277400215",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_741.parquet",
+      "first": "8277400214",
+      "last": "8217236816",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_742.parquet",
+      "first": "8217236814",
+      "last": "8197113364",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_743.parquet",
+      "first": "8197113363",
+      "last": "8147713044",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_744.parquet",
+      "first": "8147713043",
+      "last": "8123651512",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_745.parquet",
+      "first": "8123651511",
+      "last": "8105599516",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_746.parquet",
+      "first": "8105599515",
+      "last": "8095508850",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_747.parquet",
+      "first": "8095508850",
+      "last": "8088260499",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_748.parquet",
+      "first": "8088260498",
+      "last": "8073189224",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_749.parquet",
+      "first": "8073189223",
+      "last": "8050076571",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_750.parquet",
+      "first": "8050076548",
+      "last": "7975701746",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_751.parquet",
+      "first": "7975701745",
+      "last": "7899554663",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_752.parquet",
+      "first": "7899554662",
+      "last": "7892446261",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_753.parquet",
+      "first": "7892446260",
+      "last": "7829269670",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_754.parquet",
+      "first": "7829269669",
+      "last": "7795158326",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_755.parquet",
+      "first": "7795158325",
+      "last": "7760136851",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_756.parquet",
+      "first": "7760136850",
+      "last": "7624986260",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_757.parquet",
+      "first": "7624986259",
+      "last": "7483788380",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_758.parquet",
+      "first": "7483788379",
+      "last": "7411595902",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_759.parquet",
+      "first": "7411595901",
+      "last": "7406464403",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_760.parquet",
+      "first": "7406464402",
+      "last": "7353201583",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_761.parquet",
+      "first": "7353201582",
+      "last": "7348863796",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_762.parquet",
+      "first": "7348863795",
+      "last": "7318881928",
+      "rows": 999999
+    },
+        {
+      "file": "data/Hi-Tek_Part_763.parquet",
+      "first": "7318881302",
+      "last": "7204912452",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_764.parquet",
+      "first": "7204912451",
+      "last": "7090825632",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_765.parquet",
+      "first": "7090825631",
+      "last": "7026294087",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_766.parquet",
+      "first": "7026294083",
+      "last": "7022150933",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_767.parquet",
+      "first": "7022150932",
+      "last": "6366728875",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_768.parquet",
+      "first": "6366728874",
+      "last": "6364404014",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_769.parquet",
+      "first": "6364404013",
+      "last": "6363242941",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_770.parquet",
+      "first": "6363242941",
+      "last": "6362096340",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_771.parquet",
+      "first": "6362096339",
+      "last": "6360944755",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_772.parquet",
+      "first": "6360944754",
+      "last": "5755084075430",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_773.parquet",
+      "first": "5755084075428",
+      "last": "9989183121",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_774.parquet",
+      "first": "9989183118",
+      "last": "9966764118",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_775.parquet",
+      "first": "9966764117",
+      "last": "9963317756",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_776.parquet",
+      "first": "9963317753",
+      "last": "9951744461",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_777.parquet",
+      "first": "9951744457",
+      "last": "9949208084",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_778.parquet",
+      "first": "9949208082",
+      "last": "9912892148",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_779.parquet",
+      "first": "9912892146",
+      "last": "9908486197",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_780.parquet",
+      "first": "9908486195",
+      "last": "9866934280",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_781.parquet",
+      "first": "9866934278",
+      "last": "9849251146",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_782.parquet",
+      "first": "9849251144",
+      "last": "9705970398",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_783.parquet",
+      "first": "9705970397",
+      "last": "9704471260",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_784.parquet",
+      "first": "9704471259",
+      "last": "9701749325",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_785.parquet",
+      "first": "9701749323",
+      "last": "9676473478",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_786.parquet",
+      "first": "9676473477",
+      "last": "9666155107",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_787.parquet",
+      "first": "9666155106",
+      "last": "9642595391",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_788.parquet",
+      "first": "9642595389",
+      "last": "9640029157",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_789.parquet",
+      "first": "9640029156",
+      "last": "9603523680",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_790.parquet",
+      "first": "9603523679",
+      "last": "9573698679",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_791.parquet",
+      "first": "9573698678",
+      "last": "9553260328",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_792.parquet",
+      "first": "9553260327",
+      "last": "9542778011",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_793.parquet",
+      "first": "9542778010",
+      "last": "9515404722",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_794.parquet",
+      "first": "9515404721",
+      "last": "9502940875",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_795.parquet",
+      "first": "9502940874",
+      "last": "9492920744",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_796.parquet",
+      "first": "9492920734",
+      "last": "9440315541",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_797.parquet",
+      "first": "9440315535",
+      "last": "9394864337",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_798.parquet",
+      "first": "9394864330",
+      "last": "9391863233",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_799.parquet",
+      "first": "9391863232",
+      "last": "9390607797",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_800.parquet",
+      "first": "9390607796",
+      "last": "9381359372",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_801.parquet",
+      "first": "9381359371",
+      "last": "9347108663",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_802.parquet",
+      "first": "9347108662",
+      "last": "9290942893",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_803.parquet",
+      "first": "9290942889",
+      "last": "9182157651",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_804.parquet",
+      "first": "9182157650",
+      "last": "9160575692",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_805.parquet",
+      "first": "9160575691",
+      "last": "9133744444",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_806.parquet",
+      "first": "9133744444",
+      "last": "9121035571",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_807.parquet",
+      "first": "9121035570",
+      "last": "9063565043",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_808.parquet",
+      "first": "9063565042",
+      "last": "9052839570",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_809.parquet",
+      "first": "9052839568",
+      "last": "9030832958",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_810.parquet",
+      "first": "9030832957",
+      "last": "9014289564",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_811.parquet",
+      "first": "9014289563",
+      "last": "9010013214",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_812.parquet",
+      "first": "9010013213",
+      "last": "8978433790",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_813.parquet",
+      "first": "8978433789",
+      "last": "8919585416",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_814.parquet",
+      "first": "8919585415",
+      "last": "8897324180",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_815.parquet",
+      "first": "8897324178",
+      "last": "8885678514",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_816.parquet",
+      "first": "8885678514",
+      "last": "8790042399",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_817.parquet",
+      "first": "8790042398",
+      "last": "8688149161",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_818.parquet",
+      "first": "8688149159",
+      "last": "8639205737",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_819.parquet",
+      "first": "8639205736",
+      "last": "8520870581",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_820.parquet",
+      "first": "8520870580",
+      "last": "8466990450",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_821.parquet",
+      "first": "8466990449",
+      "last": "8374359138",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_822.parquet",
+      "first": "8374359137",
+      "last": "8341405022",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_823.parquet",
+      "first": "8341405021",
+      "last": "8328114536",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_824.parquet",
+      "first": "8328114534",
+      "last": "8309119068",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_825.parquet",
+      "first": "8309119067",
+      "last": "8247253257",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_826.parquet",
+      "first": "8247253256",
+      "last": "8179570220",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_827.parquet",
+      "first": "8179570219",
+      "last": "8142627858",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_828.parquet",
+      "first": "8142627857",
+      "last": "8121369008",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_829.parquet",
+      "first": "8121369006",
+      "last": "8096750850",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_830.parquet",
+      "first": "8096750848",
+      "last": "8074374107",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_831.parquet",
+      "first": "8074374105",
+      "last": "8008595043",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_832.parquet",
+      "first": "8008595041",
+      "last": "7995906905",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_833.parquet",
+      "first": "7995906904",
+      "last": "7993280710",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_834.parquet",
+      "first": "7993280709",
+      "last": "7981983631",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_835.parquet",
+      "first": "7981983630",
+      "last": "7893768388",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_836.parquet",
+      "first": "7893768386",
+      "last": "7842166773",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_837.parquet",
+      "first": "7842166772",
+      "last": "7799012618",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_838.parquet",
+      "first": "7799012617",
+      "last": "7731979653",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_839.parquet",
+      "first": "7731979651",
+      "last": "7702224194",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_840.parquet",
+      "first": "7702224191",
+      "last": "7671809664",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_841.parquet",
+      "first": "7671809662",
+      "last": "7569878207",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_842.parquet",
+      "first": "7569878206",
+      "last": "7416431916",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_843.parquet",
+      "first": "7416431915",
+      "last": "7386826178",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_844.parquet",
+      "first": "7386826177",
+      "last": "7330999512",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_845.parquet",
+      "first": "7330999511",
+      "last": "7207701898",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_846.parquet",
+      "first": "7207701897",
+      "last": "7095147164",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_847.parquet",
+      "first": "7095147163",
+      "last": "7075618266",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_848.parquet",
+      "first": "7075618265",
+      "last": "7032983281",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_849.parquet",
+      "first": "7032983279",
+      "last": "7013584261",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_850.parquet",
+      "first": "7013584259",
+      "last": "6309033451",
+      "rows": 999999
+    },
+    {
+      "file": "data/Hi-Tek_Part_851.parquet",
+      "first": "6309033450",
+      "last": "6304794239",
+      "rows": 999999
+    }
+  ]
+}
+```
