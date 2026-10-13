@@ -1,4 +1,3 @@
-python
 from fastapi import FastAPI, Request, HTTPException, BackgroundTasks
 from fastapi.responses import JSONResponse
 import httpx
@@ -6,7 +5,7 @@ import httpx
 from app import config
 from app.bot import process_update
 from app.search import find_record, get_candidates
-from app.ranges import total_files
+from app.ranges import total_files, reload_ranges
 
 app = FastAPI(title="Number Search Bot")
 
@@ -15,7 +14,6 @@ app = FastAPI(title="Number Search Bot")
 async def _startup():
     config.validate()
 
-    # Set Telegram webhook
     webhook_full = f"{config.WEBHOOK_URL}/webhook/{config.WEBHOOK_SECRET}"
     async with httpx.AsyncClient(timeout=20) as client:
         r = await client.post(
@@ -47,12 +45,10 @@ async def webhook(secret: str, request: Request, bg: BackgroundTasks):
         raise HTTPException(status_code=403, detail="forbidden")
 
     update = await request.json()
-    # Process in background so Telegram gets 200 fast
     bg.add_task(process_update, update)
     return JSONResponse({"ok": True})
 
 
-# ---- Optional: direct HTTP search endpoint for testing ----
 @app.get("/search")
 async def search(number: str):
     if not number or not number.isdigit():
@@ -67,3 +63,12 @@ async def search(number: str):
         "candidates": candidates,
         "result": result,
     }
+
+
+@app.post("/reload-ranges")
+async def reload_ranges_endpoint(secret: str):
+    """Call after updating JSON on GitHub: /reload-ranges?secret=xxx"""
+    if secret != config.WEBHOOK_SECRET:
+        raise HTTPException(status_code=403, detail="forbidden")
+    count = reload_ranges()
+    return {"ok": True, "files_loaded": count}
