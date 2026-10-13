@@ -1,3 +1,4 @@
+import os
 import duckdb
 from functools import lru_cache
 from typing import Optional, Dict
@@ -5,11 +6,28 @@ from typing import Optional, Dict
 from app.config import HF_DATASET_URL
 from app.ranges import get_candidate_files
 
-# Single reusable DuckDB connection with httpfs for reading parquet over HTTP
+HF_TOKEN = os.getenv("HF_TOKEN", "").strip()
+
+# ---- DuckDB connection (reuse across requests) ----
 _con = duckdb.connect()
 _con.execute("INSTALL httpfs;")
 _con.execute("LOAD httpfs;")
 _con.execute("SET enable_progress_bar=false;")
+
+# ---- HF Token secret create karo (agar token available hai) ----
+if HF_TOKEN:
+    try:
+        _con.execute(f"""
+            CREATE OR REPLACE SECRET hf_token (
+                TYPE huggingface,
+                TOKEN '{HF_TOKEN}'
+            );
+        """)
+        print("[search] HF token secret configured ✓")
+    except Exception as e:
+        print(f"[search] failed to set HF token secret: {e}")
+else:
+    print("[search] WARNING: HF_TOKEN not set — gated/private datasets will fail")
 
 
 # ---- Sensitive columns ko chhod ke sirf ye fields user ko dikhenge ----
