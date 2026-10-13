@@ -11,6 +11,44 @@ _LOCAL_JSON = os.path.join(
 )
 
 
+def _tolerant_json_parse(text: str) -> dict:
+    """
+    Corrupt JSON ko handle karta hai:
+    - Pehle normal parse try karo
+    - Fail ho to pehla valid JSON object nikaalo
+    - Uske baad jo bhi valid JSON objects mile, unke 'files' merge karo
+    """
+    # 1. Clean parse
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"[ranges] standard parse failed: {e}")
+
+    # 2. Tolerant: saare JSON objects dhoondo aur merge karo
+    decoder = json.JSONDecoder()
+    all_files = []
+    idx = 0
+    n = len(text)
+
+    while idx < n:
+        # skip whitespace
+        while idx < n and text[idx].isspace():
+            idx += 1
+        if idx >= n:
+            break
+        try:
+            obj, end = decoder.raw_decode(text, idx)
+            if isinstance(obj, dict) and "files" in obj:
+                all_files.extend(obj["files"])
+                print(f"[ranges] parsed block: {len(obj['files'])} files (total {len(all_files)})")
+            idx = end
+        except json.JSONDecodeError as e:
+            print(f"[ranges] stopping at idx={idx}: {e}")
+            break
+
+    return {"files": all_files}
+
+
 def _parse_ranges(data: dict) -> List[Dict]:
     ranges = []
     for item in data.get("files", []):
@@ -28,7 +66,7 @@ def _load_from_remote() -> List[Dict]:
     try:
         r = httpx.get(RANGES_URL, timeout=30, follow_redirects=True)
         r.raise_for_status()
-        data = json.loads(r.text)
+        data = _tolerant_json_parse(r.text)
         ranges = _parse_ranges(data)
         if ranges:
             print(f"[ranges] loaded {len(ranges)} from remote")
@@ -42,7 +80,7 @@ def _load_from_local() -> List[Dict]:
     try:
         if os.path.exists(_LOCAL_JSON):
             with open(_LOCAL_JSON, "r", encoding="utf-8") as f:
-                data = json.load(f)
+                data = _tolerant_json_parse(f.read())
             ranges = _parse_ranges(data)
             print(f"[ranges] loaded {len(ranges)} from local file")
             return ranges
