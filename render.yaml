@@ -1,15 +1,16 @@
+yaml
 services:
   - type: web
-    name: cyber-telecome-api
-    runtime: python
+    name: number-search-bot
+    env: docker
     plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app --workers 1 --threads 4 --timeout 120
-    healthCheckPath: /
+    autoDeploy: true
     envVars:
-      - key: PYTHON_VERSION
-        value: 3.12.8
-      - key: API_KEY
+      - key: TELEGRAM_TOKEN
         sync: false
-      - key: RANGES_FILE
-        value: file_ranges.json
+      - key: WEBHOOK_URL
+        sync: false
+      - key: WEBHOOK_SECRET
+        sync: false
+      - key: HF_DATASET_URL
+        sync: false
