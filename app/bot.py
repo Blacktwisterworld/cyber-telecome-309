@@ -1,7 +1,7 @@
-python
 import re
 import html
 import httpx
+
 from app.config import TELEGRAM_TOKEN
 from app.search import find_record
 
@@ -25,7 +25,10 @@ async def _send_message(chat_id: int, text: str):
 
 def _format_record(result: dict, number: str) -> str:
     if result["status"] == "no_range_match":
-        return f"❌ Number <code>{html.escape(number)}</code> kisi bhi file range me nahi mila."
+        return (
+            f"❌ Number <code>{html.escape(number)}</code> "
+            f"kisi bhi file range me nahi mila."
+        )
 
     if result["status"] == "not_found":
         return (
@@ -36,7 +39,7 @@ def _format_record(result: dict, number: str) -> str:
 
     rec = result["record"] or {}
     lines = [
-        f"✅ <b>Record mil gaya</b>",
+        "✅ <b>Record mil gaya</b>",
         f"Number: <code>{html.escape(number)}</code>",
         f"File: <code>{html.escape(result['file'])}</code>",
         f"Checked: {result['tried']} file(s)",
@@ -62,7 +65,6 @@ async def process_update(update: dict):
     if not text:
         return
 
-    # /start or /help
     if text.startswith("/start") or text.startswith("/help"):
         await _send_message(
             chat_id,
