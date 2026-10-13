@@ -1,13 +1,16 @@
 import os
 import json
-from flask import Flask, request, jsonify
+from pathlib import Path
 from functools import wraps
+
+from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-# Environment variables
 API_KEY = os.getenv("API_KEY", "")
-RANGES_FILE = os.getenv("RANGES_FILE", "file_ranges.json")
+RANGES_FILE = Path(
+    os.getenv("RANGES_FILE", "file_ranges.json")
+)
 
 
 def require_api_key(func):
@@ -27,79 +30,76 @@ def require_api_key(func):
 
 
 def load_ranges():
-    with open(RANGES_FILE, "r", encoding="utf-8") as file:
+    with RANGES_FILE.open("r", encoding="utf-8") as file:
         data = json.load(file)
 
-    return data.get("files", [])
+    entries = data.get("files")
+
+    if not isinstance(entries, list):
+        raise ValueError(
+            "JSON must contain a 'files' list"
+        )
+
+    return entries
 
 
-def find_candidate_files(number, ranges):
-    candidates = []
+def validate_ranges(entries):
+    valid = 0
+    invalid = 0
 
-    for item in ranges:
-        first = str(item.get("first", ""))
-        last = str(item.get("last", ""))
-
-        if not (
-            number.isdigit()
-            and first.isdigit()
-            and last.isdigit()
-            and len(number) == len(first) == len(last)
-        ):
+    for item in entries:
+        if not isinstance(item, dict):
+            invalid += 1
             continue
 
-        low, high = sorted((first, last))
+        first = str(item.get("first", ""))
+        last = str(item.get("last", ""))
+        filename = item.get("file")
 
-        if low <= number <= high:
-            candidates.append(item.get("file"))
+        if (
+            isinstance(filename, str)
+            and filename
+            and first.isdigit()
+            and last.isdigit()
+            and len(first) == len(last)
+        ):
+            valid += 1
+        else:
+            invalid += 1
 
-    return [name for name in candidates if name]
+    return {
+        "total": len(entries),
+        "valid": valid,
+        "invalid": invalid,
+    }
 
 
 @app.get("/")
 def home():
     return jsonify({
-        "service": "Dataset Range Lookup API",
+        "service": "Dataset Index Validator",
         "status": "running"
     })
 
 
-@app.get("/lookup")
+@app.get("/index-status")
 @require_api_key
-def lookup():
-    number = request.args.get("number", "").strip()
-
-    if not number.isdigit() or len(number) != 10:
-        return jsonify({
-            "success": False,
-            "error": "Enter a valid 10-digit number"
-        }), 400
-
+def index_status():
     try:
-        ranges = load_ranges()
-        candidates = find_candidate_files(number, ranges)
+        entries = load_ranges()
+        report = validate_ranges(entries)
 
         return jsonify({
             "success": True,
-            "candidate_count": len(candidates),
-            "candidate_files": candidates,
-            "message": (
-                "Candidate files identified. "
-                "Exact search can run against an authorized dataset."
-            )
+            "index": report
         })
 
-    except FileNotFoundError:
-        return jsonify({
-            "success": False,
-            "error": "Range index file not found"
-        }), 500
+    except (OSError, ValueError, json.JSONDecodeError):
+        app.logger.exception("Index validation failed")
 
-    except (json.JSONDecodeError, OSError) as exc:
-        app.logger.error("Range index error: %s", exc)
         return jsonify({
             "success": False,
-            "error": "Could not read range index"
+            "error": "Could not validate index"
         }), 500
 
 
