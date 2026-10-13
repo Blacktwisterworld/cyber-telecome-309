@@ -14,6 +14,14 @@ app = FastAPI(title="Number Search Bot")
 async def _startup():
     config.validate()
 
+    print(f"[startup] Loaded {total_files()} file ranges.")
+
+    # Only set webhook if WEBHOOK_URL is provided
+    if not config.WEBHOOK_URL:
+        print("[startup] WEBHOOK_URL not set — skipping setWebhook.")
+        print("[startup] Add WEBHOOK_URL env var after deploy to enable bot.")
+        return
+
     webhook_full = f"{config.WEBHOOK_URL}/webhook/{config.WEBHOOK_SECRET}"
     async with httpx.AsyncClient(timeout=20) as client:
         r = await client.post(
@@ -22,8 +30,6 @@ async def _startup():
         )
         print("[startup] setWebhook:", r.status_code, r.text)
 
-    print(f"[startup] Loaded {total_files()} file ranges.")
-
 
 @app.get("/")
 async def root():
@@ -31,6 +37,7 @@ async def root():
         "status": "ok",
         "files_indexed": total_files(),
         "bot": "running",
+        "webhook_url": config.WEBHOOK_URL or "(not set yet)",
     }
 
 
@@ -67,7 +74,6 @@ async def search(number: str):
 
 @app.post("/reload-ranges")
 async def reload_ranges_endpoint(secret: str):
-    """Call after updating JSON on GitHub: /reload-ranges?secret=xxx"""
     if secret != config.WEBHOOK_SECRET:
         raise HTTPException(status_code=403, detail="forbidden")
     count = reload_ranges()
