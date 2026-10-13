@@ -1,2 +1,1 @@
-python
-# Empty file — package marker
+# Empty file — marks `app` as a Python package.
