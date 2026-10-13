@@ -1,80 +1,26 @@
-# HF Dataset Range Lookup API
+markdown
+# Number Search Bot
 
-A Flask API that uses a JSON range index to identify
-candidate files in an authorized dataset.
+Telegram bot that searches a phone number across ~850 parquet files
+hosted on Hugging Face, using a JSON range index + DuckDB.
 
-## Features
+## Setup
 
-- Flask REST API
-- 10-digit number validation
-- Range-based candidate file selection
-- API-key authentication
-- Render deployment configuration
+1. Clone repo
+2. `cp .env.example .env` and fill values
+3. `pip install -r requirements.txt`
+4. `uvicorn app.main:app --reload`
 
-## Repository Structure
+## Endpoints
 
-    hf-dataset-lookup-bot/
-    ├── app.py
-    ├── requirements.txt
-    ├── render.yaml
-    ├── file_ranges.json
-    ├── README.md
-    └── .gitignore
+- `GET /` — health + file count
+- `GET /health` — ping
+- `GET /search?number=XXXXXXXXXX` — direct test
+- `POST /webhook/{secret}` — Telegram webhook
 
-## Local Installation
+## Deploy on Render
 
-1. Install Python 3.12.
-2. Install dependencies:
-
-   pip install -r requirements.txt
-
-3. Set an API key in your environment.
-
-   Linux/macOS:
-
-   export API_KEY="your-long-random-secret"
-
-   Windows PowerShell:
-
-   $env:API_KEY="your-long-random-secret"
-
-4. Start the application:
-
-   python app.py
-
-## Health Check
-
-GET /
-
-Example:
-
-http://127.0.0.1:5000/
-
-## Range Lookup
-
-GET /lookup?number=1234567890
-
-Include this HTTP header:
-
-X-API-Key: your-long-random-secret
-
-Example using curl:
-
-curl -H "X-API-Key: your-long-random-secret" \
-  "http://127.0.0.1:5000/lookup?number=1234567890"
-
-## Render Deployment
-
-1. Push the repository to GitHub.
-2. Open Render and create a Blueprint deployment.
-3. Select the repository containing render.yaml.
-4. Set API_KEY to a strong secret in Render's environment settings.
-5. Deploy the service.
-
-## Important
-
-The current implementation identifies candidate filenames only.
-It does not yet search inside Parquet files.
-
-Use only datasets you are authorized to access. Protect personal
-information and restrict access to approved users.
+- Push to GitHub
+- Render → New Web Service → connect repo
+- Set env vars (see `.env.example`)
+- Deploy
