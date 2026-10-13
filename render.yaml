@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: hf-dataset-lookup-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app --workers 1 --threads 4 --timeout 120
+    healthCheckPath: /
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
+      - key: API_KEY
+        sync: false
+      - key: RANGES_FILE
+        value: file_ranges.json
