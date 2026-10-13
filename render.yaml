@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hf-dataset-lookup-api
+    name: cyber-telecome-api
     runtime: python
     plan: free
     buildCommand: pip install -r requirements.txt
